@@ -10,4 +10,4 @@ By the end of this book, you'll have a thorough understanding of the ways in whi
 
 Whether you're an educator, a student, or simply someone interested in the latest developments in AI and education, this book is the ultimate resource for understanding the future of learning and teaching in the age of intelligent technologies. Let's get started!
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
