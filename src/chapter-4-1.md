@@ -1,5 +1,3 @@
-Chatbots for Educational Support
-=======================================================================================
 
 Chatbots are AI-powered conversational agents that can provide personalized support and guidance to students. In this chapter, we examine the use of chatbots as a real-world application of AI in education.
 

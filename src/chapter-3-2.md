@@ -1,5 +1,3 @@
-Adaptive Learning Systems
-=====================================================
 
 Adaptive learning systems (ALS) are a type of artificial intelligence (AI) technology that can personalize learning experiences for individual students by adapting to their unique needs. In this chapter, we explore the role of adaptive learning systems in education.
 

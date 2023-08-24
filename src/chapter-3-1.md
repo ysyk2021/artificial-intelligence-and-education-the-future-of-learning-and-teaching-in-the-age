@@ -1,5 +1,3 @@
-New Approaches to Instructional Design
-==================================================================
 
 Artificial intelligence (AI) is transforming the landscape of education, presenting new opportunities for instructional design and delivery. In this chapter, we explore some of the new approaches to instructional design that are made possible through AI.
 

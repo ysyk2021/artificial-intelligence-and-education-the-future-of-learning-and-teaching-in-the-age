@@ -1,5 +1,3 @@
-Role of Educators in Promoting AI Literacy
-==========================================================================================
 
 As artificial intelligence (AI) continues to evolve and impact various aspects of our lives, it is crucial that educators play a vital role in educating students about AI. In this chapter, we discuss the future directions and opportunities for promoting AI literacy among students and the role educators can play in this process.
 

@@ -1,5 +1,3 @@
-Chapter 4: Real-world Applications of AI in Education
-=====================================================
 
 The application of artificial intelligence (AI) in education is rapidly evolving, and new tools and technologies are emerging to support teaching and learning. In this chapter, we explore some of the most promising real-world applications of AI in education.
 

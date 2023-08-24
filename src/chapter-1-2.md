@@ -1,5 +1,3 @@
-Brief History of AI in Education
-=========================================================
 
 Artificial intelligence (AI) has been used in education for over 40 years, with early applications focused on computer-based instruction and adaptive learning systems. In this chapter, we provide a brief history of AI in education and examine its evolution from early applications to current innovations.
 

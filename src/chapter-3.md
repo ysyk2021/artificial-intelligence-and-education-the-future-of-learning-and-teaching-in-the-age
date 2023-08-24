@@ -1,5 +1,3 @@
-Chapter 3: AI and Pedagogy
-==========================
 
 As artificial intelligence (AI) continues to evolve, it has the potential to transform the way we design, deliver, and evaluate instruction. In this chapter, we explore some of the ways that AI is changing pedagogy and creating new opportunities for teaching and learning.
 

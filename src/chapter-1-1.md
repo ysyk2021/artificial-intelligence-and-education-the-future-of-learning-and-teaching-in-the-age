@@ -1,5 +1,3 @@
-What is Artificial Intelligence?
-=========================================================
 
 Artificial intelligence (AI) is a rapidly developing field that seeks to create intelligent machines that can perform tasks that typically require human intelligence, such as recognizing speech, identifying objects, and making decisions. In this chapter, we explore the fundamentals of AI, including its history, key concepts, and foundational techniques.
 

@@ -1,5 +1,3 @@
-Chapter 2: The Impact of AI in Education
-========================================
 
 Artificial intelligence (AI) has the potential to transform the landscape of education. In this chapter, we explore some of the ways that AI is impacting teaching and learning.
 

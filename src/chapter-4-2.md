@@ -1,5 +1,3 @@
-Smart Content and Learning Analytics
-===========================================================================================
 
 In addition to virtual tutors and mentors, artificial intelligence (AI) is also being used to develop smart content and learning analytics tools that can help to improve learning outcomes for students. In this chapter, we explore some real-world examples of these technologies and their potential impact on education.
 

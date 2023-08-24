@@ -1,5 +1,3 @@
-AI-based Assessment and Evaluation
-==============================================================
 
 Artificial intelligence (AI) is transforming the field of assessment and evaluation, offering new possibilities for more efficient and effective methods of evaluating student learning. In this chapter, we explore the role of AI in assessment and evaluation in education.
 

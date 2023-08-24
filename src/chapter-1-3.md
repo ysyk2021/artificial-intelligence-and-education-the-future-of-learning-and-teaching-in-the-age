@@ -1,5 +1,3 @@
-Objectives of the Book
-===============================================
 
 Artificial intelligence (AI) is rapidly transforming the world around us, and education is no exception. From personalized learning experiences to automated grading, AI has the potential to revolutionize the way we teach and learn. The objective of this book is to explore the impact of AI on education, and to provide insights into the opportunities and challenges that lie ahead.
 

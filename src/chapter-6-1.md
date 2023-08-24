@@ -1,5 +1,3 @@
-Emerging Trends in AI and Education
-===================================================================================
 
 As the use of artificial intelligence (AI) in education continues to expand, it is important to consider the future directions and emerging trends that will shape the field. In this chapter, we explore some of the key opportunities and challenges associated with the future of AI and education.
 

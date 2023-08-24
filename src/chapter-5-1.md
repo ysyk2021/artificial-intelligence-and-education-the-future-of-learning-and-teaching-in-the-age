@@ -1,5 +1,3 @@
-Ethical and Legal Considerations
-============================================================================================
 
 While the integration of AI into education has the potential to revolutionize teaching and learning, it also presents a number of ethical and legal challenges that must be considered. In this chapter, we examine some of the key challenges associated with the integration of AI into education.
 

@@ -1,5 +1,3 @@
-Virtual Tutors and Mentors
-=================================================================================
 
 One of the most promising applications of artificial intelligence (AI) in education is the development of virtual tutors and mentors that can provide personalized learning experiences to students. In this chapter, we explore some real-world examples of AI-powered virtual tutors and mentors, and discuss their potential for transforming the way we teach and learn.
 

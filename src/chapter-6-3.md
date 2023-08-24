@@ -1,5 +1,3 @@
-Collaboration between Industry and Academia
-===========================================================================================
 
 The field of education has seen an increasing amount of attention from both academia and industry in recent years, with a growing number of collaborations and partnerships emerging between the two. As we look to the future of education and artificial intelligence (AI), it is clear that such collaborations will be crucial for driving innovation, advancing research, and improving outcomes for learners and educators alike.
 

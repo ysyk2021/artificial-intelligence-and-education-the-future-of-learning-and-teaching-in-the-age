@@ -1,5 +1,3 @@
-Ensuring Equity and Accessibility
-=============================================================================================
 
 The integration of AI into education has the potential to revolutionize teaching and learning, but it also presents a range of challenges related to equity and accessibility. In this chapter, we explore some of the key considerations around ensuring that AI-powered education is equitable and accessible for all learners.
 

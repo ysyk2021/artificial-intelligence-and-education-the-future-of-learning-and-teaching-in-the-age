@@ -1,5 +1,3 @@
-Chapter 6: Future Directions and Opportunities
-==============================================
 
 The integration of artificial intelligence (AI) in education is still in its early stages, and the potential for innovation and transformation is vast. In this chapter, we explore some of the emerging trends in AI and education and the opportunities that lie ahead.
 

@@ -1,5 +1,3 @@
-Student Data Privacy
-==============================================================
 
 Artificial intelligence (AI) has the potential to revolutionize education, but it also raises concerns about student data privacy. In this chapter, we explore the impact of AI on student data privacy and examine the steps that educators can take to protect their students.
 

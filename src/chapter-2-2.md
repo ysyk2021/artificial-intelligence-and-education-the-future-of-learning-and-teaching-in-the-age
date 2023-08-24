@@ -1,5 +1,3 @@
-Personalized Learning
-===============================================================
 
 Artificial intelligence (AI) has the potential to transform education by providing personalized learning experiences that cater to individual student needs. In this chapter, we explore how AI is used to enable personalized learning and discuss its potential benefits and challenges.
 

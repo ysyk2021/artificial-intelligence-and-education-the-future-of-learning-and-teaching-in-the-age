@@ -1,5 +1,3 @@
-Transforming Teaching and Learning
-============================================================================
 
 Artificial intelligence (AI) is transforming education by providing new opportunities for teaching and learning. In this chapter, we explore the impact of AI on education, including its potential benefits and challenges.
 

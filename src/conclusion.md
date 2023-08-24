@@ -1,4 +1,3 @@
-# Conclusion
 
 As we near the end of this book exploring the role of artificial intelligence (AI) in education, it is important to reflect on the impact that AI has already had and consider the next steps for the future of learning and teaching.
 
