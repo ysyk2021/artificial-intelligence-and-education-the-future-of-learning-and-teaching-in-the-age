@@ -3,7 +3,6 @@
 - [Chapter 1: Introduction](README.md)
   - [What is Artificial Intelligence?](chapter-1-1.md)
   - [Brief History of AI in Education](chapter-1-2.md)
-  - [Objectives of the Book](chapter-1-3.md)
 - [Chapter 2: The Impact of AI in Education](chapter-2.md)
   - [Transforming Teaching and Learning](chapter-2-1.md)
   - [Personalized Learning](chapter-2-2.md)
@@ -26,3 +25,4 @@
   - [Collaboration between Industry and Academia](chapter-6-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

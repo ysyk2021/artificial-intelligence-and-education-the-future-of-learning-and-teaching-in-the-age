@@ -10,3 +10,7 @@ By the end of this book, you'll have a thorough understanding of the ways in whi
 Whether you're an educator, a student, or simply someone interested in the latest developments in AI and education, this book is the ultimate resource for understanding the future of learning and teaching in the age of intelligent technologies. Let's get started!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
