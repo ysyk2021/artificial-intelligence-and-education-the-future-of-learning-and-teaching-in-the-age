@@ -1,5 +1,4 @@
-Chapter 8: AI-Based Assessment and Evaluation
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of artificial intelligence (AI) in assessment and evaluation practices within education. AI-powered technologies have the capacity to revolutionize the way we assess and evaluate student learning, providing more personalized, efficient, and accurate measurement of knowledge, skills, and competencies. This chapter delves into the various applications of AI in assessment, the benefits it offers, and the considerations that must be taken into account.
 

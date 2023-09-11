@@ -1,5 +1,4 @@
-Chapter 4: Personalized Learning
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the transformative potential of personalized learning in the age of intelligent technologies. As artificial intelligence (AI) continues to advance, it offers unprecedented opportunities to tailor educational experiences to the unique needs, interests, and abilities of individual learners. This chapter explores the concept of personalized learning and its implications for the future of education.
 

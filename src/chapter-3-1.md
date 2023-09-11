@@ -1,5 +1,4 @@
-Chapter 4: New Approaches to Instructional Design
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the innovative and transformative role of artificial intelligence (AI) in shaping new approaches to instructional design. As AI technologies continue to advance, educators are empowered with new tools and methodologies to create engaging, effective, and personalized learning experiences for students. This chapter delves into the principles, benefits, challenges, and future directions of incorporating AI into instructional design.
 

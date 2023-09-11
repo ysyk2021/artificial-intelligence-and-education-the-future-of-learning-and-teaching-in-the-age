@@ -1,5 +1,4 @@
-Chapter 6: Ensuring Equity and Accessibility
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical importance of ensuring equity and accessibility in the age of intelligent technologies and artificial intelligence (AI) within education. As AI continues to advance, it is essential to address potential biases and barriers that may disproportionately impact certain learners or perpetuate existing inequalities. This chapter examines strategies, considerations, and interventions aimed at promoting equity and enhancing accessibility in AI-infused educational environments.
 

@@ -1,5 +1,4 @@
-Chapter 10: Ethical and Legal Considerations
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the ethical and legal considerations surrounding the integration of artificial intelligence (AI) and intelligent technologies in education. As AI becomes increasingly prevalent in educational settings, it is crucial to address the ethical implications and legal frameworks that guide its use. This chapter explores the complex ethical dilemmas, privacy concerns, and legal considerations that arise in the context of AI-infused teaching and learning environments.
 

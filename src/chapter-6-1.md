@@ -1,5 +1,4 @@
-Chapter 12: Emerging Trends in AI and Education
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the emerging trends in the field of artificial intelligence (AI) and education. As technology continues to advance, AI holds tremendous potential to reshape educational practices, enhance learning experiences, and improve teaching methodologies. This chapter highlights key trends that are shaping the future of AI in education.
 

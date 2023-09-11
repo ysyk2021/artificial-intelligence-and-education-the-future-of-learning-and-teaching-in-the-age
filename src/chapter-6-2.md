@@ -1,5 +1,4 @@
-Chapter 8: Role of Educators in Promoting AI Literacy
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the critical role of educators in promoting AI literacy among students. As artificial intelligence continues to shape various aspects of society, it is essential for educators to equip students with the knowledge and skills necessary to understand, navigate, and responsibly engage with intelligent technologies. This chapter discusses the key responsibilities and strategies educators can adopt to foster AI literacy.
 

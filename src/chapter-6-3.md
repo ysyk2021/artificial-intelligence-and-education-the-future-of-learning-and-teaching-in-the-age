@@ -1,5 +1,4 @@
-Chapter 10: Collaboration between Industry and Academia
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the importance of collaboration between industry and academia in the context of artificial intelligence and education. The integration of cutting-edge technology and innovative pedagogies requires a strong partnership between these two sectors to drive advancements and ensure that educational practices align with industry demands. This chapter delves into the benefits, challenges, and strategies involved in fostering collaboration between industry and academia.
 

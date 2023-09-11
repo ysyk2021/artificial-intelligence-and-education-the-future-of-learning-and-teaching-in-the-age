@@ -1,5 +1,4 @@
-Chapter 8: Maintaining Human Interaction in the Classroom
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of maintaining human interaction in the classroom amidst the increasing integration of artificial intelligence (AI) and intelligent technologies. While AI offers numerous benefits and opportunities for education, it is essential to recognize the irreplaceable value of human connection, collaboration, and interpersonal skills in the learning process. This chapter examines strategies and considerations for preserving and enhancing human interaction within AI-infused educational environments.
 

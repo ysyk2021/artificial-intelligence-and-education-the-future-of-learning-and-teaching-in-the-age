@@ -1,5 +1,4 @@
-Chapter 6: Student Data Privacy
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical topic of student data privacy in the context of artificial intelligence (AI) and education. As educational institutions increasingly integrate AI technologies into their learning environments, it is essential to prioritize the protection of student data and ensure compliance with privacy regulations. This chapter examines the importance of student data privacy and discusses strategies for safeguarding sensitive information.
 

@@ -1,5 +1,4 @@
-Chapter 6: Adaptive Learning Systems
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of adaptive learning systems in the context of education. Adaptive learning leverages artificial intelligence (AI) technologies to create personalized and dynamic learning experiences that cater to the unique needs, preferences, and abilities of individual learners. This chapter delves into the principles, benefits, challenges, and future directions of adaptive learning systems.
 

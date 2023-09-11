@@ -1,5 +1,4 @@
-Chapter 10: Transforming Teaching and Learning
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the ways in which artificial intelligence (AI) is transforming teaching and learning in the age of intelligent technologies. AI has the potential to revolutionize traditional educational practices, making them more personalized, adaptive, and engaging. This chapter explores the various aspects of AI that are reshaping the landscape of education.
 
